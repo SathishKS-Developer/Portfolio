@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   email: "sathishferliks@gmail.com",
   phone: "+91 8531068321",
   linkedin: "https://linkedin.com/in/sathish-ks-87224a200",
-  github: "https://github.com/Sathish270900",
+  github: "https://github.com/SathishKS-Developer",
   bio: `Java Full Stack Developer with 4 years of hands-on experience engineering high-performance enterprise applications. Specializing in Java, Spring Boot, Microservices, PostgreSQL, Apache Kafka, Databricks, and modern React.js integration. Passionate about AI integration—building production RAG (Retrieval-Augmented Generation) platforms for intelligent semantic search and LLM context orchestration.`,
   yearsOfExp: 4,
   stats: [
@@ -149,7 +149,7 @@ export const PROJECTS: Project[] = [
       "Role-based metadata filtering preventing unauthorized document context leakage"
     ],
     architecture: "PDF Ingestion Engine → Chunking & Embedding Generator → Vector Index (pgvector) → Cosine Similarity Matcher → LLM Prompt Synthesizer → React Client UI",
-    github: "https://github.com/Sathish270900/Rag-Project",
+    github: "https://github.com/SathishKS-Developer/Rag-Project",
     demo: "#rag-demo"
   },
   {
@@ -169,7 +169,7 @@ export const PROJECTS: Project[] = [
       "Asynchronous Kafka consumer groups handling incremental database log change capture"
     ],
     architecture: "Source DB (PostgreSQL) → Change Data Capture → Apache Kafka Topic → Spring Boot Ingestion Worker → Databricks Metadata Layer → Target DB (Oracle)",
-    github: "https://github.com/Sathish270900/enterprise-etl-pipeline"
+    github: "https://github.com/SathishKS-Developer/enterprise-etl-pipeline"
   },
   {
     id: "lowcode-platform-sovablu",
@@ -188,7 +188,7 @@ export const PROJECTS: Project[] = [
       "Custom React component library designed for modular enterprise expansion"
     ],
     architecture: "React Canvas UI → Visual Layout JSON Payload → Spring Boot Keyword Dispatcher → Microservices Layer → PostgreSQL Persistence",
-    github: "https://github.com/Sathish270900/sovablu-low-code-platform"
+    github: "https://github.com/SathishKS-Developer/sovablu-low-code-platform"
   },
   {
     id: "pdf-report-builder",
@@ -207,6 +207,6 @@ export const PROJECTS: Project[] = [
       "Monitored PDF generation jobs with AWS CloudWatch telemetry"
     ],
     architecture: "REST JSON Template Payload → Apache PDFBox Layout Engine → Stream Buffer → AWS S3 Cloud Bucket → Signed Download URL",
-    github: "https://github.com/Sathish270900/pdf-report-builder"
+    github: "https://github.com/SathishKS-Developer/pdf-report-builder"
   }
 ];
